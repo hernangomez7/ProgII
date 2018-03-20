@@ -1,0 +1,6 @@
+D:\VisualStudio\ejerciciosGuia\ejerciciosGuia\bin\Debug\ejerciciosGuia.exe.config
+D:\VisualStudio\ejerciciosGuia\ejerciciosGuia\bin\Debug\ejerciciosGuia.exe
+D:\VisualStudio\ejerciciosGuia\ejerciciosGuia\bin\Debug\ejerciciosGuia.pdb
+D:\VisualStudio\ejerciciosGuia\ejerciciosGuia\obj\Debug\ejerciciosGuia.exe
+D:\VisualStudio\ejerciciosGuia\ejerciciosGuia\obj\Debug\ejerciciosGuia.pdb
+D:\VisualStudio\ejerciciosGuia\ejerciciosGuia\obj\Debug\ejerciciosGuia.csprojResolveAssemblyReference.cache
