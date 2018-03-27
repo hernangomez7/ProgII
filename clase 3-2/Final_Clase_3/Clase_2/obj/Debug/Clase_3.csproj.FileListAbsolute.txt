@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\Final_Clase_2_add\Clase_2\bin\Debug\Clase_2.exe.config
+C:\Users\alumno\Desktop\Final_Clase_2_add\Clase_2\bin\Debug\Clase_2.exe
+C:\Users\alumno\Desktop\Final_Clase_2_add\Clase_2\bin\Debug\Clase_2.pdb
+C:\Users\alumno\Desktop\Final_Clase_2_add\Clase_2\obj\Debug\Clase_3.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Final_Clase_2_add\Clase_2\obj\Debug\Clase_2.exe
+C:\Users\alumno\Desktop\Final_Clase_2_add\Clase_2\obj\Debug\Clase_2.pdb
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\bin\Debug\Clase_2.exe.config
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\bin\Debug\Clase_2.exe
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\bin\Debug\Clase_2.pdb
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\obj\Debug\Clase_3.csprojResolveAssemblyReference.cache
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\obj\Debug\Clase_3.csproj.CoreCompileInputs.cache
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\obj\Debug\Clase_2.exe
+C:\Users\Ashtray\Desktop\clase 3-2\Final_Clase_3\Clase_2\obj\Debug\Clase_2.pdb
