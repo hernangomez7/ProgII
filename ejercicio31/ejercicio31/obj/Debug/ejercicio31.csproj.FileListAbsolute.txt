@@ -1,0 +1,2 @@
+D:\VisualStudio\ejercicio31\ejercicio31\bin\Debug\ejercicio31.exe.config
+D:\VisualStudio\ejercicio31\ejercicio31\obj\Debug\ejercicio31.csprojResolveAssemblyReference.cache
